@@ -1,5 +1,7 @@
 # college-canteen 
+
 Canteen Online Ordering System
+
 This project is a simple online ordering system for a canteen, developed using HTML and CSS. It allows users to browse the menu and place orders conveniently over the internet.
 
 Features:
